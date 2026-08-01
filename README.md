@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h5 data-importer="text" align="left">🚀 Data Engineer | Python | SQL | Spark | AWS | Azure | AirFlow | Databricks | Hadoop | Docker</h5>
+<h4 data-importer="text" align="left">🚀 Data Engineer | Python | SQL | Spark | AWS | Azure | AirFlow | Databricks | Hadoop | Docker</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p data-importer="text" align="left">🛠️ Ferramentas e Tecnologias:</p>
+<h4 data-importer="text" align="left">🛠️ Ferramentas e Tecnologias:</h4>
 
 ###
 
