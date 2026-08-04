@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Construindo pipelines de dados escaláveis e soluções de ETL/ELT utilizando Python, SQL, Databricks e Apache Spark.</p>
+<p data-importer="text" align="left">Construindo pipelines de dados escaláveis e desenvolvendo soluções de ETL/ELT com Python, SQL, Databricks, Apache Spark e outras ferramentas do ecossistema de dados.</p>
 
 ###
 
