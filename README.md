@@ -2,7 +2,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">🚀 Data Engineer | Python | SQL | Spark | AWS | Azure | AirFlow | Databricks | Hadoop | Docker</h4>
+<h4 data-importer="text" align="left">🚀 Data Engineer | Python | SQL | Spark | AWS | Azure | AirFlow | Databricks | dbt | Docker</h4>
 
 ###
 
