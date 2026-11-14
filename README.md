@@ -2,7 +2,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">🚀 Data Engineer | Python | SQL | Spark | AWS | Azure | AirFlow | Databricks | dbt | Docker</h4>
+<h4 data-importer="text" align="left">Data Engineer | Python | SQL | Spark | AWS | Azure | AirFlow | Databricks | dbt | Docker</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">📫 Contato:</h4>
+<h4 data-importer="text" align="left">Contato:</h4>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">🛠️ Ferramentas e Tecnologias:</h4>
+<h4 data-importer="text" align="left">Ferramentas e Tecnologias:</h4>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">📊 Linguagens mais utilizadas</h4>
+<h4 data-importer="text" align="left">Linguagens mais utilizadas</h4>
 
 ###
 
